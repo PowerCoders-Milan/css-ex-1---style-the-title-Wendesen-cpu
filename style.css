@@ -1,1 +1,31 @@
 /* Use Selectors and attributes for the HTML design */
+
+.First{
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(160, 40, 207);
+    
+
+      }
+#Second{
+    text-decoration-line: line-through; 
+}
+#Third{
+    text-decoration-line: underline; 
+
+}
+
+.ab{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(197, 22, 22);
+    text-shadow: greenyellow;
+}
+
+#ab-2{
+    text-transform:lowercase;
+    font-variant: small-caps;
+    color:lime;
+}
+#ab-1{
+    text-transform:lowercase;
+    font-variant: small-caps;
+    color:rgb(18, 82, 134);
