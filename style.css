@@ -29,3 +29,5 @@
     text-transform:lowercase;
     font-variant: small-caps;
     color:rgb(18, 82, 134);
+    text-decoration:dotted underline red;
+}
